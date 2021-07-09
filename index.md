@@ -6,7 +6,6 @@ intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
+# Gianluca Braschi
 
-# Serif - A Jekyll Business Theme.
-
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Ho trovato presso l'AS-FC i miei vecchi diari e agende e ho deciso di trascriverle per me stesso e per i miei ricordi.
