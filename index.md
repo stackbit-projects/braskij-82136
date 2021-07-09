@@ -1,7 +1,7 @@
 ---
 title: Gianluca Braschi
 layout: home
-description: xxxxxxxxxxxxxxxxxxxxxx
+description: Il diario di Gianluca BRASCHI
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
